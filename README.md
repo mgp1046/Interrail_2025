@@ -12,4 +12,4 @@ Las principales ciudades que visitaremos son:
   
 A medida que vayamos ampliando el repositorio añadiremos al viaje más ciudades como: Bucarest, Sofia, Varsovia, Bratislava, entre otras.
 
-El viaje comenzará en abril de 2025 pasando alrededor de 2-3 días en cada ciudad dejando medio día de margen para el transporte a través del Interrail. Este viaje no tiene fecha de retorno ya que variará en función de la disponibilidad de cada viajero y de las ciudades que se quieran visitar.
+El viaje comenzará en abril de 2025 pasando alrededor de 2-3 días en cada ciudad, dejando medio día de margen para el transporte a través del Interrail. Este viaje no tiene fecha de retorno ya que variará en función de la disponibilidad de cada viajero y de las ciudades que se quieran visitar.
